@@ -1,40 +1,40 @@
-Full,Spaced,Key,Key2
-"Alipur, Delhi - DPCC",Alipur,Alipur,Alipur
-"Anand Vihar, Delhi - DPCC",Anand Vihar,Anand,AnandVihar
-"Ashok Vihar, Delhi - DPCC",Ashok Vihar,Ashok,AshokVihar
-"Aya Nagar, Delhi - IMD",Aya Nagar,Aya,AyaNagar
-"Bawana, Delhi - DPCC",Bawana,Bawana,Bawana
-"CRRI Mathura Road, Delhi - IMD",CRRI Mathura Road,CRRI,Burari
-"Chandni Chowk, Delhi - IITM",Chandni Chowk,Chandni,CRRI
-"DTU, Delhi - CPCB",DTU,DTU,DTU
-"Dr. Karni Singh Shooting Range, Delhi - DPCC",Dr. Karni Singh Shooting Range,Karni,Dwarka
-"Dwarka-Sector 8, Delhi - DPCC",Dwarka-Sector 8,Dwarka,Dwarka8
-"East Arjun Nagar, Delhi - CPCB",East Arjun Nagar,EastArjun,IGI
-"IGI Airport (T3), Delhi - IMD",IGI Airport (T3),IGI,ITO
-"IHBAS, Dilshad Garden, Delhi - CPCB",IHBAS,IHBAS,Jahangirpuri
-"ITO, Delhi - CPCB",ITO,ITO,JNStadium
-"Jahangirpuri, Delhi - DPCC",Jahangirpuri,Jahangirpuri,LodhiRoad
-"Jawaharlal Nehru Stadium, Delhi - DPCC",Jawaharlal Nehru Stadium,Jawaharlal,MandirMarg
-"Lodhi Road, Delhi - IITM",Lodhi Road,Lodhi_IITM,Mundka
-"Lodhi Road, Delhi - IMD",Lodhi Road,Lodhi_IMD,Najafgarh
-"Major Dhyan Chand National Stadium, Delhi - DPCC",Major Dhyan Chand National Stadium,Major,Narela
-"Mandir Marg, Delhi - DPCC",Mandir Marg,Mandir,NationalStadium
-"Mundka, Delhi - DPCC",Mundka,Mundka,NehruNagar
-"NSIT Dwarka, Delhi - CPCB",NSIT Dwarka,NSIT,NorthCampus
-"Najafgarh, Delhi - DPCC",Najafgarh,Najafgarh,Okhla
-"Narela, Delhi - DPCC",Narela,Narela,Patparganj
-"Nehru Nagar, Delhi - DPCC",Nehru Nagar,Nehru,PunjabiBagh
-"North Campus, DU, Delhi - IMD",North Campus,North,PusaDPCC
-"Okhla Phase-2, Delhi - DPCC",Okhla Phase-2,Okhla,RKPuram
-"Patparganj, Delhi - DPCC",Patparganj,Patparganj,Rohini
-"Punjabi Bagh, Delhi - DPCC",Punjabi Bagh,Punjabi,Shadipur
-"Pusa, Delhi - DPCC",Pusa,Pusa_DPCC,Sirifort
-"Pusa, Delhi - IMD",Pusa,Pusa_IMD,SoniaVihar
-"R K Puram, Delhi - DPCC",R K Puram,RKPuram,SriAuro
-"Rohini, Delhi - DPCC",Rohini,Rohini,VivekVihar
-"Shadipur, Delhi - CPCB",Shadipur,Shadipur,Wazirpur
-"Sirifort, Delhi - CPCB",Sirifort,Sirifort,
-"Sonia Vihar, Delhi - DPCC",Sonia Vihar,Sonia,
-"Sri Aurobindo Marg, Delhi - DPCC",Sri Aurobindo Marg,Sri,
-"Vivek Vihar, Delhi - DPCC",Vivek Vihar,Vivek,
-"Wazirpur, Delhi - DPCC",Wazirpur,Wazirpur,
+Full,Spaced,Key,Key2,Key3,Key4
+"Alipur, Delhi - DPCC",Alipur,Alipur,Alipur,Alipur,Alipur
+"Anand Vihar, Delhi - DPCC",Anand Vihar,Anand,AnandVihar,AnandVihar,AnandVihar
+"Ashok Vihar, Delhi - DPCC",Ashok Vihar,Ashok,AshokVihar,AshokVihar,AshokVihar
+"Aya Nagar, Delhi - IMD",Aya Nagar,Aya,AyaNagar,AyaNagar,AyaNagar
+"Bawana, Delhi - DPCC",Bawana,Bawana,Bawana,Bawana,Bawana
+"CRRI Mathura Road, Delhi - IMD",CRRI Mathura Road,CRRI,Burari,Chandni,CRRI
+"Chandni Chowk, Delhi - IITM",Chandni Chowk,Chandni,CRRI,CRRI,DTU
+"DTU, Delhi - CPCB",DTU,DTU,DTU,DTU,Dwarka8
+"Dr. Karni Singh Shooting Range, Delhi - DPCC",Dr. Karni Singh Shooting Range,Karni,Dwarka,Dwarka8,IGI
+"Dwarka-Sector 8, Delhi - DPCC",Dwarka-Sector 8,Dwarka,Dwarka8,EastArjun,ITO
+"East Arjun Nagar, Delhi - CPCB",East Arjun Nagar,EastArjun,IGI,IGI,Jahangirpuri
+"IGI Airport (T3), Delhi - IMD",IGI Airport (T3),IGI,ITO,IHBAS,JNStadium
+"IHBAS, Dilshad Garden, Delhi - CPCB",IHBAS,IHBAS,Jahangirpuri,ITO,Lodhi_IMD
+"ITO, Delhi - CPCB",ITO,ITO,JNStadium,Jahangirpuri,MajorDhyanChand
+"Jahangirpuri, Delhi - DPCC",Jahangirpuri,Jahangirpuri,LodhiRoad,JNStadium,MandirMarg
+"Jawaharlal Nehru Stadium, Delhi - DPCC",Jawaharlal Nehru Stadium,Jawaharlal,MandirMarg,Karni,Mundka
+"Lodhi Road, Delhi - IITM",Lodhi Road,Lodhi_IITM,Mundka,Lodhi_IITM,Najafgarh
+"Lodhi Road, Delhi - IMD",Lodhi Road,Lodhi_IMD,Najafgarh,Lodhi_IMD,Narela
+"Major Dhyan Chand National Stadium, Delhi - DPCC",Major Dhyan Chand National Stadium,Major,Narela,MajorDhyanChand,NehruNagar
+"Mandir Marg, Delhi - DPCC",Mandir Marg,Mandir,NationalStadium,MandirMarg,NorthCampus
+"Mundka, Delhi - DPCC",Mundka,Mundka,NehruNagar,Mundka,NSITDwarka
+"NSIT Dwarka, Delhi - CPCB",NSIT Dwarka,NSIT,NorthCampus,Najafgarh,Okhla
+"Najafgarh, Delhi - DPCC",Najafgarh,Najafgarh,Okhla,Narela,Patparganj
+"Narela, Delhi - DPCC",Narela,Narela,Patparganj,NehruNagar,PunjabiBagh
+"Nehru Nagar, Delhi - DPCC",Nehru Nagar,Nehru,PunjabiBagh,NorthCampus,Pusa_DPCC
+"North Campus, DU, Delhi - IMD",North Campus,North,PusaDPCC,NSITDwarka,RKPuram
+"Okhla Phase-2, Delhi - DPCC",Okhla Phase-2,Okhla,RKPuram,Okhla,Rohini
+"Patparganj, Delhi - DPCC",Patparganj,Patparganj,Rohini,Patparganj,Shadipur
+"Punjabi Bagh, Delhi - DPCC",Punjabi Bagh,Punjabi,Shadipur,PunjabiBagh,Sirifort
+"Pusa, Delhi - DPCC",Pusa,Pusa_DPCC,Sirifort,Pusa_DPCC,SoniaVihar
+"Pusa, Delhi - IMD",Pusa,Pusa_IMD,SoniaVihar,Pusa_IMD,SriAuro
+"R K Puram, Delhi - DPCC",R K Puram,RKPuram,SriAuro,RKPuram,VivekVihar
+"Rohini, Delhi - DPCC",Rohini,Rohini,VivekVihar,Rohini,Wazirpur
+"Shadipur, Delhi - CPCB",Shadipur,Shadipur,Wazirpur,Shadipur,
+"Sirifort, Delhi - CPCB",Sirifort,Sirifort,,Sirifort,
+"Sonia Vihar, Delhi - DPCC",Sonia Vihar,Sonia,,SoniaVihar,
+"Sri Aurobindo Marg, Delhi - DPCC",Sri Aurobindo Marg,Sri,,SriAuro,
+"Vivek Vihar, Delhi - DPCC",Vivek Vihar,Vivek,,VivekVihar,
+"Wazirpur, Delhi - DPCC",Wazirpur,Wazirpur,,Wazirpur,
